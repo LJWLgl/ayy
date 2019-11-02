@@ -9,6 +9,14 @@ ayy(爱易园)基于微信小程序开发的，服务校园二手交易，目前
 + 计数系统
 + ...
 
+### 组织结构
+``` lua
+ayy
+├── ayy-wx   -- 爱易园小程序端
+├── ayy-admin -- 爱易园后台管理系统（还未实现）
+└── ayy-backend -- 爱易园小程序端
+```
+
 ### 效果图如下
 ![image](http://ayy.ganzhiqiang.wang/xgt-4.png?imageView2/2/w/300/q/100)
 ![image](http://ayy.ganzhiqiang.wang/xgt-2.png?imageView2/2/w/300/q/100)
@@ -20,4 +28,6 @@ ayy(爱易园)基于微信小程序开发的，服务校园二手交易，目前
 #### 2019.03.26
 - 解决微信getUserInfo策略更新而不能登录问题
 - war包用docker部署
+#### 2019.11.02
+- 支持读本地配置
 
