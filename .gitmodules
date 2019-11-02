@@ -1,0 +1,6 @@
+[submodule "ayy-backend/ares"]
+	path = ayy-backend/ares
+	url = https://github.com/LJWLgl/ares.git
+[submodule "ayy-wx/ayy-ft"]
+	path = ayy-wx/ayy-ft
+	url = https://github.com/LJWLgl/ayy-ft.git
